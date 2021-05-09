@@ -34,14 +34,15 @@
 # カラー定数
 | 色名（EN） | 色名（JP） | 備考 |
 |:-:|:-:|:-|
-| red  | 赤  |   |
-| yellow  | 黄  |   |
-| green  | 緑  |   |
-| blue  | 青  |   |
-| purple  | 紫  |   |
-| orange  | 橙  |   |
-| white  | 白  |   |
-| black| 黒  |   |
+| red  | 赤  | #FF0000  |
+| yellow  | 黄  | #FFFF00  |
+| green  | 緑  | #00FF00  |
+| blue  | 青  |  #0000FF |
+| ？ | 水色  |  #00FFFF |
+| purple  | 紫  | #FF00FF  |
+| orange  | 橙  | #FF9900  |
+| white  | 白  |  ＃FFFFFF |
+| black| 黒  |  #000000 |
 
 
 # 変数
