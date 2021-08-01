@@ -1,6 +1,7 @@
 # 雷剣サブローでの思い出　サポートページ
 
 ![raiken](https://user-images.githubusercontent.com/31530633/116291818-fd9e2200-a7cf-11eb-88a3-ab63cf30a16f.jpg)
+![RA00](https://user-images.githubusercontent.com/31530633/127764135-12fbd640-b82f-4dcb-b239-c5f356343aff.jpg)
 
 ## シナリオ番号
 1V80BKK
