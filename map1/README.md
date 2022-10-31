@@ -4,7 +4,8 @@
 ![RA00](https://user-images.githubusercontent.com/31530633/127764135-12fbd640-b82f-4dcb-b239-c5f356343aff.jpg)
 
 ## シナリオ番号
-1V80BKK
+~~1V80BKK~~
+公開終了
 
 ## シナリオ概要
 市道が国道バイパスに格上げとなり町が大きく変わる中、<br>
